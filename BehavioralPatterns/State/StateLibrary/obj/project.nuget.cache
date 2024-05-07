@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgJL7XN1a97ARjmdnv57qdISP1r04H/dzd6gWtj8ao38/jCNZE43nlXTcxWHFiyVCjwQHBvCu14E9/RmBq0/aQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\BehavioralPatterns\\State\\StateLibrary\\StateLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

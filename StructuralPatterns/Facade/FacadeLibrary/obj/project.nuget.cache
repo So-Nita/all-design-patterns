@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+hhb9OHpuyqT8b4Sz76d6XjGFZ3ZA58D9xP1QKCrN5qN2L75k4v594k1rUUX7H2oM/AsCJzOS150EefI/jWYw==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\StructuralPatterns\\Facade\\FacadeLibrary\\FacadeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

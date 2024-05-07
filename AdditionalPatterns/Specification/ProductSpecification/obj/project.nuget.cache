@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwMAPxzX2RZZSHO8i3SykSJ/cPtw9O7zNqHtLAfeWz0Vm2LRH9utnKbigGILAA3Qksbw+xCuR59dKP5ERKuk9g==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\AdditionalPatterns\\Specification\\ProductSpecification\\ProductSpecification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

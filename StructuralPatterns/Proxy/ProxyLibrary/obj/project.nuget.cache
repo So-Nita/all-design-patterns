@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxJdNXbc6BgA1tA/EsfbVfOFuQhQITTBEe80ZPaOdpjOSLUtAHoG+nQ4pDNMUC94GAUo67No+/CBtZrZeGBXvQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\StructuralPatterns\\Proxy\\ProxyLibrary\\ProxyLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

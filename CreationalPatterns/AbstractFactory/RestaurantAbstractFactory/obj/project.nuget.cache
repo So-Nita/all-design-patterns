@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvXY38Tvg0k8X9IkCXa/1rhyOd30KzizY7C7agISM8CifyFG7svrLTFelevBp4/R4MajhzC4UXqKGxIJPCY4+w==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\CreationalPatterns\\AbstractFactory\\RestaurantAbstractFactory\\RestaurantAbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

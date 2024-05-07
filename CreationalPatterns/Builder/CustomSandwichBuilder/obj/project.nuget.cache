@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJWmhC8k4Ft0AVb2Wy4BOlP9SHTMripRqcLaeEV8JAnpyAlBv+ks/3P38N74D+SRRUdkMEfu+a0OxqE0KrYenw==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\CreationalPatterns\\Builder\\CustomSandwichBuilder\\CustomSandwichBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

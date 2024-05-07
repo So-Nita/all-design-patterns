@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAv6vMsErBJ4ClKY0dHWj9kKN9gBO0NkTTqt39sCbw9KuSVG18kzf9ACH0fi505+/CJ4E1WJs6kmNB5PQO5kSg==",
+  "success": true,
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatternsLibrary\\AdditionalPatterns\\EventAggregator\\StoreManagement\\StoreManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
